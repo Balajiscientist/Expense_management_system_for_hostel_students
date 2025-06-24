@@ -105,6 +105,11 @@ To deploy your application online using **Streamlit Cloud**:
 - **README.md**: Provides an overview and instructions for the project.
 
 
+## 📘 Documentation
+
+For more detailed information about the system architecture and design, please refer to the [HLD Document](HLD.pdf).
+
+
 ## Student Contributions & Roles
 
 | Name                  | Role               | Key Contributions |
