@@ -1,16 +1,22 @@
-# Expense Management System
+# Expense Management System for Hostel Students
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+ Hostel students often struggle to manage their limited monthly budgets because they lack personalised tools for tracking daily expenses, shared costs, and upcoming dues.
 
+# 🎯 Objectives 
+- Designed a student-friendly interface to simplify daily expense tracking
+- Enabled categorisation of personal and shared expenses
+- Integrated reminders for upcoming payments (mess, rent, etc.)
+- Developed visual dashboards for spending analysis
+- Ensured data storage and retrieval using a secure backend (e.g., MySQL)
+- Enhanced financial awareness and budgeting habits among students
 
 ## Project Structure
 
 - **frontend**: Contains the Streamlit application code.
 - **backend**: Contains the FastAPI backend server code.
-- **tests**: Contains the test cases for both frontend and backend.
+- **tests**: Contains the front and backend test cases.
 - **requirements.txt**: Lists the required Python packages.
 - **README.md**: Provides an overview and instructions for the project.
-
 
 ## Setup Instructions
 
@@ -32,3 +38,25 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run app.py
    ```
+
+# 👥 Student Contributions & Roles
+## 1. B.Balaji
+Role: Full Stack Developer
+Contributions:
+- Designed and integrated both the frontend and backend
+- Managed database connectivity and API testing
+- Deployed the application on Streamlit Cloud
+## 2. K.Surya Akhil Varma
+Role: Backend Developer
+Contributions:
+- Built RESTful APIs using FastAPI
+- Handled secure data transfer and validation
+- Connected backend logic with MySQL database
+## 3. K.Yuva Sankar
+Role: Frontend Developer
+Contributions:
+- Developed user-friendly interfaces using Streamlit
+- Designed intuitive UI/UX for student use
+- Created visual dashboards for expense insights
+
+   
