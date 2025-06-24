@@ -18,6 +18,11 @@
 - **requirements.txt**: Lists the required Python packages.
 - **README.md**: Provides an overview and instructions for the project.
 
+## App Results
+  <img src="Tab1" width="500"/>
+  <img src="Tab2" width="500"/>
+  <img src="Tab3" width="600"/>
+
 ## Setup Instructions
 
 1. **Clone the repository**:
@@ -40,19 +45,19 @@
    ```
 
 # 👥 Student Contributions & Roles
-## 1. B.Balaji
+### 1. B.Balaji
 Role: Full Stack Developer
 Contributions:
 - Designed and integrated both the frontend and backend
 - Managed database connectivity and API testing
 - Deployed the application on Streamlit Cloud
-## 2. K.Surya Akhil Varma
+### 2. K.Surya Akhil Varma
 Role: Backend Developer
 Contributions:
 - Built RESTful APIs using FastAPI
 - Handled secure data transfer and validation
 - Connected backend logic with MySQL database
-## 3. K.Yuva Sankar
+### 3. K.Yuva Sankar
 Role: Frontend Developer
 Contributions:
 - Developed user-friendly interfaces using Streamlit
