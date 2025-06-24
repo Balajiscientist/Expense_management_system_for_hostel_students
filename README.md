@@ -56,7 +56,7 @@ Hostel students often struggle to manage their monthly budgets due to:
 | **Postman**        | API testing & debugging             |
 | **Streamlit Cloud**| Web app deployment                  |
 
-## Features
+### Features
 - Add and view daily expenses  
 - Categorize by type (food, rent, travel, etc.)  
 - Summarize monthly expenses  
