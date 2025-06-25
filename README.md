@@ -123,7 +123,6 @@ For more detailed information about the system architecture and design, please r
 ## Internship Info
 
 - **Company**: Pixel Mind Solutions Pvt. Ltd, Kukatpally, Hyderabad  
-- **Supervisor**: Dr. S. Sangeetha, Dept. of CSE (AI & DS), The Apollo University  
 - **Internship Duration**: May 1, 2025 – June 14, 2025  
 - **Mode**: Offline  
 - **Domain**: Full-Stack Development & Data Science  
